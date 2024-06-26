@@ -3,3 +3,54 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* centre the heading */
+ h1{
+  text-align: center;
+ }
+
+ /* centre the image */
+
+ img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+ }
+
+   /* center nav links */
+   .navbar {
+    display: flex;
+    align-items: center;
+    background-color: brown;
+   }
+
+   /* reduce and center image caption */
+   {
+    #figcaption; 
+    
+    text-align: center;
+
+   }
+
+   /*give ps within featured-property hard width 800px and centre the text*/
+
+     #featured-property {
+      width: 800px;
+      text-align: center;
+    }
+
+    /* Make our details section horizontal*/
+   
+      div {
+        float: left;
+        text-align: center;
+        background-color: red;
+
+      }
+
+    }
+
+
+   
+  
